@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Atharv Manish Yeole
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on Linkedin 
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently learning Machine Learning .
+- 💞️ I’m looking to collaborate on Linkedin   
+- 📫 How to reach me : Linkedin 
 - 😄 Pronouns: He
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am very curious and simple person.
+- 
 
 <!---
 Yeole123/Yeole123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
